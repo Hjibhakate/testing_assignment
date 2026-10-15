@@ -29,4 +29,4 @@ The system accepts special characters (`@`) in both the **First Name** and **Las
 
 ## Evidence
 
-![BUG-06](./bug-6.png) |
+![BUG-06](./Bug-6.png)
